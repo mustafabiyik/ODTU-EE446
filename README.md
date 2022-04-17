@@ -1,2 +1,2 @@
 # ODTU-EE446
-odtü ee 446 labrotory works 
+odtü ee 446 lab works 
